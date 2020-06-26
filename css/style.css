@@ -1,0 +1,163 @@
+p{
+  padding-left: 20px;
+}
+header, footer {
+  background-color: #0d151a;
+}
+
+
+.navbar-brand {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.nav-link, .dropdown-item {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Verdana;
+  background-color: orangered;
+}
+
+nav li {
+  padding: 0 18px;
+}
+
+nav li.active, nav li.active:before {
+  background-color: rgb(255, 176, 6);
+  border-radius: 5px;
+}
+
+#reboot{
+  background-color: rgb(255, 153, 0);
+  color: white;
+  padding-top: 100px;
+padding-right: 20px;
+padding-bottom: 20px;
+padding-left: 700px;
+text-align: center;
+  
+}
+.rer{
+  height: 700px;
+}
+main{
+  background-color: rgb(110, 107, 101);;
+}
+#navbarSupportedContent{
+  background-color: orangered;
+}
+.collapse{
+  background-color: orangered;
+}
+
+body{
+  background-color: rgb(110, 107, 101);
+  cursor: not-allowed
+}
+.custom {
+  cursor: url(img/Up_Arrow.cur);
+}
+
+text{
+  size: 12px;
+}
+h3{
+  padding-left: 1100px;
+  color: black;
+}
+h4{
+  padding-left: 100px;
+  color: black;
+}
+p{
+  padding-top: 20px;
+padding-right: 200px;
+padding-bottom: 0px;
+padding-left: 20px;
+  color: black;
+}
+#fert{
+  position: 500px;
+}
+div{
+  background-color: rgb(68, 63, 63);
+  
+}
+img{
+  background-color: #161e20 ;
+}
+body{
+cursor : url('img/Up_Arrow.cur'), default;
+max-width: 20000px;
+}
+.carousel a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+.carousel{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+    
+}
+
+.card-text{
+  background-color: rgb(255, 227, 176);
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  text-align: center;
+  padding-left: 100px;
+  font-size: 15px;
+}
+.card-body {
+  background-color: rgb(255, 227, 176);
+  color: wheath;
+}
+.card-img-left{
+  padding-top: unset;
+  size: auto;
+}
+#more{
+  padding-left: 640px;
+  color: white;
+ 
+}
+#dropdown-item-1 {
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  text-align: center;
+  padding-left: 100px;
+  font-size: 15px;
+  text-align: center;
+  ;
+}
+#nav-link {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Verdana;
+  background-color: rgb(31, 32, 95);
+}
+
+#dropdown-item,active
+{
+  background-color: rgb(255, 176, 6);
+  border-radius: 5px;
+}
+ul{
+  color: black;
+  text-align: center;
+}
+.zikl{
+  text-align:center ;
+}
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css');
+
+.carousel-inner img {
+  height: auto;
+  width: 100%;
+}

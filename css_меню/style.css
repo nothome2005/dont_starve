@@ -1,0 +1,66 @@
+
+header {
+  background-color: #595b5c;
+}
+
+
+.nav-link {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Verdana;
+  background-color: orangered;
+}
+
+nav li {
+  padding: 0 18px;
+}
+
+nav li.active, nav li.active:before {
+  background-color: rgb(255, 176, 6);
+  border-radius: 5px;
+}
+
+
+.collapse{
+  background-color: orangered;
+}
+.dropdown-item {
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-family: Verdana;
+  background-color: rgb(255, 145, 0);
+}
+body{
+  background-color: rgb(145, 141, 133);
+  cursor:url(img/1.png), default;
+}
+.blue{
+  background-color: rgb(0, 132, 255);
+  color:white;
+  padding-top: 30px;
+  padding-left:  500px; 
+  block-size: 100px;
+  padding-right: 40px;
+}
+.lol{
+  padding-left: 20px;
+  font-size: 18px;
+  color: black;
+  padding-right: 20px;
+  text-align: left;
+}
+h3{
+  padding-left: 70px;
+   color: black;
+
+}
+img{
+  padding-left: 1100px;
+}
+iframe{
+  margin-left: 250px;
+}
+footer {
+  background-color: #0d151a}
