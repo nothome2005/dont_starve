@@ -1,1 +1,23 @@
+.blue{
+    background-color: rgb(4, 104, 235);
+    text-align: right;
+    color: white;
+}
 
+div{
+    align-items: center;
+}
+header{
+    background-color: rgb(41, 42, 54);
+}
+.nav-link {
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: Verdana;
+    background-color: orangered;
+    text-align: center;
+  }
+#navbarSupportedContent{
+text-align: center;
+  }

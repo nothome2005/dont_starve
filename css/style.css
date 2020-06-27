@@ -55,9 +55,6 @@ body{
   background-color: rgb(110, 107, 101);
   cursor: not-allowed
 }
-.custom {
-  cursor: url(img/Up_Arrow.cur);
-}
 
 text{
   size: 12px;
@@ -154,10 +151,4 @@ ul{
 }
 .zikl{
   text-align:center ;
-}
-@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css');
-
-.carousel-inner img {
-  height: auto;
-  width: 100%;
 }
